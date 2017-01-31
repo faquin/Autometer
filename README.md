@@ -23,4 +23,4 @@ The Arduino code. It uses libraries
 The adaptater I had to make between the Atmega connector and the Arduino pins.
 
 ## Existing circuit
-See the [dedicated page](existing-circuit.md)
+See the [dedicated page](docs/existing-circuit.md)
